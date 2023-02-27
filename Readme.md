@@ -7,3 +7,4 @@ This repo contains the solve script for the challenges from [ProjetEuler](https:
 4. [Problem-4]((Problem-4)_Largest_Palindrome_Product.py) 
 5. [Problem-5]((Problem-5)_Smallest_Multiple.py)
 6. [Problem-6]((Problem-6)_Sum_Square_Difference.py)
+7. [Problem-7]((Problem-7)_10001st_Prime.py)
